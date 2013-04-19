@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'therubyracer'
 gem 'devise'
+gem 'simple_form'
